@@ -4,7 +4,9 @@ Warwick Take-Home Challenge
 
 Personality Test: https://www.16personalities.com/entp-personality
 
-  I have taken Myers-Briggs several times before and have gotten slightly different variations on the final results. That being said, I consistently score as 'Intuitive' and 'Thinking'. Scoring slightly higher in 'Perceiving' rather than 'Judging' was a surprise - usually I score as 'Judging'. Finally, I recognize in myself a range of traits from both of the traditional Myers-Briggs definitions of 'Extraversion' and 'Introversion'. 
+"""
+I have taken Myers-Briggs several times before and have gotten slightly different variations on the final results. That being said, I consistently score as 'Intuitive' and 'Thinking'. Scoring slightly higher in 'Perceiving' rather than 'Judging' was a surprise - usually I score as 'Judging'. Finally, I recognize in myself a range of traits from both of the traditional Myers-Briggs definitions of 'Extraversion' and 'Introversion'. 
+"""
 
 
 Free Response Question
